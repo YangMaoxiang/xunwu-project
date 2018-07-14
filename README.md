@@ -1,6 +1,7 @@
 # xunwu-project
 基于ElasticSearch的找房网实战
 核心技术：
+
 1.ElasticSearch+MySQL+Kafka实现站内搜索引擎
 
 2.ElasticSearch+百度地图实现地图找房功能
